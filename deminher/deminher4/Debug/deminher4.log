@@ -1,0 +1,4 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  DEM_INH4.CPP
+DEM_INH4.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  deminher4.vcxproj -> C:\Users\voyag\OneDrive\桌面\OOD\deminher\deminher4\Debug\deminher4.exe
